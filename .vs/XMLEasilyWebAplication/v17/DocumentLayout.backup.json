@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\",
+  "WorkspaceRootPath": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A8701CF-3FE0-414C-9BE8-E05F77A3BCA7}|XMLEasilyWebAplication.csproj|d:\\xmlaplication\\xmleasilyweb\\xmleasilywebaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A8701CF-3FE0-414C-9BE8-E05F77A3BCA7}|XMLEasilyWebAplication.csproj|c:\\xmlaplication\\xmleasilyweb\\xmleasilywebaplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A8701CF-3FE0-414C-9BE8-E05F77A3BCA7}|XMLEasilyWebAplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-02T23:45:04.759Z",
               "EditorCaption": ""

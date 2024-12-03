@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj": {}
+    "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj": {}
   },
   "projects": {
-    "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj": {
+    "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj",
+        "projectUniqueName": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj",
         "projectName": "XMLEasilyWebAplication",
-        "projectPath": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj",
+        "projectPath": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\XMLEasilyWebAplication.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\obj\\",
+        "outputPath": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
