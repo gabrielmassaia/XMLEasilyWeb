@@ -1,39 +1,38 @@
 ﻿
-    /* Alterar cores dos botões */
-    .btn-success
+    
+  .btn-success
 {
-    background-color: #28a745; /* Verde padrão */
+    background-color: #28a745; 
     border-color: #28a745;
 }
 
 .btn-info {
-    background-color: #17a2b8; /* Azul mais claro */
+    background-color: #17a2b8; 
     border-color: #17a2b8;
 }
 
 .btn-danger {
-    background-color: #dc3545; /* Vermelho padrão */
-    border-color: #dc3545;
+    background-color: #28a745;
+    border-color: #28a745;
 }
 
-/* Adicionar hover personalizado */
 .btn-primary:hover {
-    background-color: #357ab8; /* Azul escuro no hover */
+    background-color: #357ab8; 
     border-color: #357ab8;
 }
 
 .btn-success:hover {
-    background-color: #218838; /* Verde escuro no hover */
+    background-color: #218838; 
     border-color: #218838;
 }
 
 .btn-primary:hover {
-    background-color: #357ab8; /* Azul escuro no hover */
+    background-color: #357ab8; 
     border-color: #357ab8;
 }
 
 .btn-success:hover {
-    background-color: #218838; /* Verde escuro no hover */
+    background-color: #218838; 
     border-color: #218838;
 }
 

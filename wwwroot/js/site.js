@@ -9,10 +9,17 @@
     // Mock: Dados de arquivos (simulação de retorno do backend)
     const arquivos = [
         { nome: "Cotacao_2024-12-01.xml", data: "2024-12-01" },
-        { nome: "Cotacao_2024-12-02.xml", data: "2024-12-02" }
+        { nome: "Cotacao_2024-12-02.xml", data: "2024-12-02" },
+        { nome: "Cotacao_2024-12-03.xml", data: "2024-12-03" },
+        { nome: "Cotacao_2024-12-04.xml", data: "2024-12-04" },
+        { nome: "Cotacao_2024-12-05.xml", data: "2024-12-05" },
+        { nome: "Cotacao_2024-12-06.xml", data: "2024-12-06" },
+        { nome: "Cotacao_2024-12-07.xml", data: "2024-12-07" },
+        { nome: "Cotacao_2024-12-08.xml", data: "2024-12-08" },
+        { nome: "Cotacao_2024-12-09.xml", data: "2024-12-09" },
+
     ];
 
-    // Função para exibir arquivos no quadro
     const carregarArquivos = () => {
         fileDisplayArea.innerHTML = "";
         arquivos.forEach((arquivo) => {
@@ -27,7 +34,6 @@
         });
     };
 
-    // Evento para buscar data
     searchBtn.addEventListener("click", () => {
         const dataInput = document.getElementById("dataInput").value;
         if (dataInput) {
@@ -44,29 +50,25 @@
         }
     });
 
-    // Evento para download
+    
     downloadBtn.addEventListener("click", () => {
         alert("Download iniciado...");
         // Lógica de download
     });
 
-    // Evento para abrir arquivo
     openFileBtn.addEventListener("click", () => {
         alert("Abrindo arquivo...");
         // Lógica de abertura
     });
 
-    // Evento para atualizar conteúdo
     refreshBtn.addEventListener("click", () => {
         carregarArquivos();
     });
 
-    // Evento para limpar conteúdo
     clearBtn.addEventListener("click", () => {
         fileDisplayArea.innerHTML = `<p class="text-muted text-center">Nenhum arquivo carregado.</p>`;
     });
 
-    // Carregar arquivos inicialmente
     carregarArquivos();
 });
 

@@ -3,26 +3,23 @@
 }
 
 <div class="container-fluid p-0">
-    <!-- Personalizar o fundo -->
-    <div class="gradient-bg d-flex justify-content-center align-items-center vh-100 flex-column">
 
-        <!-- Campos de Data e Buscar -->
+    <div class="gradient-bg d-flex justify-content-center align-items-center vh-100 flex-column">
+     
         <div class="action-area d-flex flex-column align-items-center">
             <div class="mb-3 d-flex w-100 justify-content-center flex-wrap">
                 <input type="date" id="dataInput" class="form-control form-control-lg shadow-sm me-2" style="max-width: 300px;" />
-                <button id="searchBtn" class="btn btn-primary btn-lg custom-btn">Buscar Data</button>
+                <button id="searchBtn" class="btn btn-primary btn-lg custom-btn">Filtrar Data</button>               
             </div>
-
-        <!-- Quadro branco central para exibir arquivos -->
+            
+            <div class="card-titulo"><h5 class="text-center">Arquivos Disponíveis</h5></div>
+                    
         <div class="white-box p-4 shadow mb-4">
-            <h5 class="text-center">Arquivos Disponíveis</h5>
             <div id="fileDisplayArea" class="file-area">
                 <p class="text-muted text-center">Nenhum arquivo carregado.</p>
             </div>
         </div>
-
-        <!-- Área de botões e campo de busca -->
-
+       
             <div class="d-flex flex-wrap justify-content-center gap-2">
                 <button id="downloadBtn" class="btn btn-success btn-lg custom-btn">Download</button>
                 <button id="openFileBtn" class="btn btn-info btn-lg custom-btn">Abrir arquivo raiz</button>
