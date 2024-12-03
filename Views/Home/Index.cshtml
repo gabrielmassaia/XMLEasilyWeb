@@ -1,8 +1,37 @@
 ﻿@{
-    ViewData["Title"] = "XML Easily";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container-fluid p-0">
+    <!-- Fundo gradiente azul -->
+    <div class="gradient-bg d-flex justify-content-center align-items-center vh-100">
+        <!-- Quadro branco central -->
+        <div class="white-box p-4 shadow">
+            <h3 class="text-center mb-4">Gerenciador de Arquivos XML</h3>
+            <div class="row mb-3">
+                <!-- Campo de data e botão de busca -->
+                <div class="col-md-8">
+                    <input type="date" id="dataInput" class="form-control form-control-lg shadow-sm" />
+                </div>
+                <div class="col-md-4">
+                    <button id="searchBtn" class="btn btn-primary btn-lg custom-btn w-100">Buscar Data</button>
+                </div>
+            </div>
+            <!-- Botões adicionais -->
+            <div class="row text-center">
+                <div class="col-md-6 mb-3">
+                    <button id="downloadBtn" class="btn btn-success btn-lg custom-btn w-100">Download</button>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <button id="openFileBtn" class="btn btn-info btn-lg custom-btn w-100">Abrir Arquivo</button>
+                </div>
+                <div class="col-md-6">
+                    <button id="refreshBtn" class="btn btn-warning btn-lg custom-btn w-100">Atualizar</button>
+                </div>
+                <div class="col-md-6">
+                    <button id="clearBtn" class="btn btn-danger btn-lg custom-btn w-100">Limpar</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
