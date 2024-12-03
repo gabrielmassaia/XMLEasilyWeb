@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\XMLEasilyWebAplication.bundle.scp.css"
     },
     {
+      "Id": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\wwwroot\\css\\Buttons.css",
+      "PackagePath": "staticwebassets\\css\\Buttons.css"
+    },
+    {
       "Id": "C:\\XMLAplication\\XMLEasilyWeb\\XMLEasilyWebAplication\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
