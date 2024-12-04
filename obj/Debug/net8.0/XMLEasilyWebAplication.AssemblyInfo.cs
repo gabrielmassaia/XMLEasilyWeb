@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XMLEasilyWebAplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02bd358740806a934eed39e1e711783e754ab1f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a3318da23b2ecda198c10e7640f2177815d5e43")]
 [assembly: System.Reflection.AssemblyProductAttribute("XMLEasilyWebAplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XMLEasilyWebAplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
